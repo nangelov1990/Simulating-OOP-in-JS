@@ -1,0 +1,10 @@
+{
+  "name": "Simulating_OOP_in_JS",
+  "version": "0.0.0",
+  "description": "Simulating-OOP-in-JS",
+  "main": "app.js",
+  "author": {
+    "name": "angelovn",
+    "email": ""
+  }
+}
