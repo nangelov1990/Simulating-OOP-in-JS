@@ -21,3 +21,6 @@ printOnWebPage("bugFix", peter.firstName);
 
 console.log(peter.lastName);
 printOnWebPage("bugFix", peter.lastName);
+
+peter.fullName = "asada";
+console.log(peter.fullName);
